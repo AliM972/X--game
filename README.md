@@ -66,6 +66,6 @@ java Play 5 4 3
 ```
 
 If using an IDE to run:
-1. Download the files and upload them into a project
+1. Download the files and open them in your IDE
 2. Pass in the required arguments in run configurations: <board-size> <shape-length> <depth>
 3. Run Play.java
